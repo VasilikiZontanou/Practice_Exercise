@@ -4,5 +4,6 @@ public class Exercise {
         System.out.println(8230039);
         System.out.println(8230129);
         System.out.println(8230071);
+        System.out.println(8230113);
     }
 }
