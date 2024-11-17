@@ -7,5 +7,6 @@ public class Exercise {
         System.out.println(8220070);
         System.out.println(8230100);
         System.out.println(8230078);
+        System.out.println(8230041);
     }
 }
